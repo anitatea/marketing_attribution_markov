@@ -4,7 +4,14 @@ Markov chains, in the context of channel attribution, gives us a framework to st
 
 
 # Overview
-✍️ WIP ✍️ - Stay Tuned!
+More so today than ever, digital marketing is an integral step in establishing a brand. There are various channels in which this takes place. Did my Google Ad bring in more customers or paid influencers on Instagram?
+
+## Use Cases
+* CPG products - your grocery items
+* Retail - does your product have more of an impact when advertised by a local influencer?
+* Delivery services - web-based vs. mobile ads
+
+✍️ this project is a WIP ✍️ - Stay Tuned!
 
 <!--
 "Whiteboarded" analysis:
